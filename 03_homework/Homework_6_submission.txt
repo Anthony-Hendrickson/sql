@@ -1,0 +1,21 @@
+All of my previous data analyst work has been done at law firms and I think there is a fundamental issue that needs to be addressed; Diversity and Inclusion data is incomplete.
+
+Law firms are basically broken down into two groups; business services/law clerks and lawyers. It is in the interest of the business 
+owners (lawyers) to highlight the diversity of their staff. However there isn't an incentive for the business services/law clerks to 
+volunteer this info and this group also tends to be where the diversity is in law firms. In my opinion this is a very patroninzing dynmic 
+as well, which doesn't help diversity information volunteerism.
+
+A simple pattern is playing out as in the rest of society: people do what is in their best interest. Lawyers win RFPs and meet increasing 
+DEI standards and scrutiny from clients by having diversity in their organization and leveraging the data reflecting it. 
+
+Business services/law clerks are of course kept employed by business won and acquired by lawyers but aren't receiving compensation winfalls 
+as lawyers do and they don't.
+
+I think three incentives to volunteer this data could be:
+
+1. Look at diversity per $100k wages as well as headcounts.
+2. Pay staff for the use of their data in revenue generating activities as a royalty.
+3. Let staff see the data.
+
+Maybe if I was a business leader I would be inclined to say "this isn't good for the bottom line!" but I'm not so I have the freedom to say
+I think this would be worthwhile.
