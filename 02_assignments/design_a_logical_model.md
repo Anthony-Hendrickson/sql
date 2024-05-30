@@ -15,7 +15,16 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
 ```
-Your answer...
+Our customer address table poses a challenge that we need to agree on a solution for. 
+
+Customer addresses will change and we always want to know the most recent address. There are two types of slowly changing dimension (SCD) architectures that will accomodate this. 
+
+The first (SCD 1) overwrites the existing value with an updated address when we receive address change information. In SCD 1 we do not retain prior address information.  
+
+The second (SCD 2) will create a new record whenever we receive change of address information. In SCD 2 we retain all prior address information.
+
+Under the circumstances SCD 1 seems to be the correct architecture due to privacy concerns. Our business, which sells books and uses customer address information for the purposes of shipping and potentially mail advertising, does not appear to have a basis for retaining historical customer addresses. As a best practice we should only retain data we intend on using for reasons our customers will be able to relate to the service we offer.
+
 ```
 
 ## Question 4
